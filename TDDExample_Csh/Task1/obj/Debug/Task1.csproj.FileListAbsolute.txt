@@ -1,0 +1,7 @@
+C:\Users\savin\source\repos\TDDExample_Csh\Task1\bin\Debug\Task1.exe.config
+C:\Users\savin\source\repos\TDDExample_Csh\Task1\bin\Debug\Task1.exe
+C:\Users\savin\source\repos\TDDExample_Csh\Task1\bin\Debug\Task1.pdb
+C:\Users\savin\source\repos\TDDExample_Csh\Task1\obj\Debug\Task1.csprojAssemblyReference.cache
+C:\Users\savin\source\repos\TDDExample_Csh\Task1\obj\Debug\Task1.csproj.CoreCompileInputs.cache
+C:\Users\savin\source\repos\TDDExample_Csh\Task1\obj\Debug\Task1.exe
+C:\Users\savin\source\repos\TDDExample_Csh\Task1\obj\Debug\Task1.pdb
