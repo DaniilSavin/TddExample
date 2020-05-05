@@ -1,0 +1,13 @@
+﻿  LinearEquation.cpp
+E:\tddexample-master (1)\tddexample-master\Task4-6\c++\part2c++\LinearEquation.cpp(60,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+E:\tddexample-master (1)\tddexample-master\Task4-6\c++\part2c++\LinearEquation.cpp(198,4): warning C4834: отмена возвращаемого значения функции с атрибутом "nodiscard"
+  part2c++.cpp
+E:\tddexample-master (1)\tddexample-master\Task4-6\c++\part2c++\LinearEquation.cpp(60,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+E:\tddexample-master (1)\tddexample-master\Task4-6\c++\part2c++\LinearEquation.cpp(198,4): warning C4834: отмена возвращаемого значения функции с атрибутом "nodiscard"
+E:\tddexample-master (1)\tddexample-master\Task4-6\c++\part2c++\SystemOfLinearEquation.cpp(25,13): warning C4018: <: несоответствие типов со знаком и без знака
+  SystemOfLinearEquation.cpp
+E:\tddexample-master (1)\tddexample-master\Task4-6\c++\part2c++\LinearEquation.cpp(60,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+E:\tddexample-master (1)\tddexample-master\Task4-6\c++\part2c++\LinearEquation.cpp(198,4): warning C4834: отмена возвращаемого значения функции с атрибутом "nodiscard"
+E:\tddexample-master (1)\tddexample-master\Task4-6\c++\part2c++\SystemOfLinearEquation.cpp(25,13): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода...
+  part2c++.vcxproj -> E:\tddexample-master (1)\tddexample-master\Task4-6\c++\x64\Debug\part2c++.exe
